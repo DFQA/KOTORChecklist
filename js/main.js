@@ -2,7 +2,7 @@
     Licenced under  GPL-3.0-or-later
 */
 
-var profilesKey = 'dragonfable_profiles';
+var profilesKey = 'exile_profiles';
 var profiles = $.jStorage.get(profilesKey, {});
 
 (function($) {
