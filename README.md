@@ -1,6 +1,4 @@
-# Definitive Story Guide
-A guide to the DragonFable Story, based on ZKjellberg's Dark Souls 3 Cheat Sheet (which was based on Stephen McNabb's Dark Souls 2 Cheat Sheet).
+# Knights of the Old Republic Checklist
+A checklist for all quests in KOTOR 
 
-Original creators:
-    Me, Cedrei
-    Gabriel Castro
+Based Cedrei's Dragonfable Story Guide, which is itself based on ZKjellberg's Dark Souls 3 Cheat Sheet (which was based on Stephen McNabb's Dark Souls 2 Cheat Sheet).
